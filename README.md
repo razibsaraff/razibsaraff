@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Razib Saraff</h1>
-<h3 align="center">A passionate SQA fngineer from Bangladesh</h3>
+<h3 align="center">A passionate SQA Engineer from Bangladesh</h3>
  <img align ="right" alt="testing" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReo1_C7LGGrBe8PrDRfcMTG0oFIcdrLn662X5l76nAgA&s">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razibsaraff&label=Profile%20views&color=0e75b6&style=flat" alt="razibsaraff" /> </p>
 
